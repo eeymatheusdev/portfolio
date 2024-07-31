@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Portfólio" src="./images/portfolio.PNG" width="100%">
+  <img alt="Portfólio" src="./images/portfolio.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
