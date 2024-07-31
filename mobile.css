@@ -36,19 +36,8 @@
 
   /* Skills */
   .skills-content {
-    flex-direction: column;
-    margin-top: 40px;
-  }
-
-  .skills-content .skill-item:nth-child(2) {
-    margin-bottom: 40px;
-    margin-top: 40px;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .skill-item {
-    padding: 30px;
+    margin-top: 45px;
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .skill-item img {
